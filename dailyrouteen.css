@@ -1,0 +1,29 @@
+.necessary, .unnecessary, .hobbies {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px; }
+
+.necessary {
+  background-color: lightgreen; }
+
+.unnecessary {
+  background-color: #ffff44; }
+
+.hobbies {
+  background-color: #43ece4; }
+
+div h3 {
+  text-decoration: underline; }
+
+#dailyrouteen h2 {
+  text-decoration: underline;
+  text-align: center;
+  background-color: #8522cc;
+  color: white;
+  border: 1px solid black;
+  margin: 10px; }
+
+/*# sourceMappingURL=dailyrouteen.css.map */
